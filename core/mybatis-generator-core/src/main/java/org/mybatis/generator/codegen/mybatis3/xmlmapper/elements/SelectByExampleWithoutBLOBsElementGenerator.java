@@ -43,7 +43,9 @@ public class SelectByExampleWithoutBLOBsElementGenerator extends
                 introspectedTable.getSelectByExampleStatementId()));
         answer.addAttribute(new Attribute(
                 "resultMap", introspectedTable.getBaseResultMapId())); //$NON-NLS-1$
-        answer.addAttribute(new Attribute("parameterType", fqjt)); //$NON-NLS-1$
+        //answer.addAttribute(new Attribute("parameterType", fqjt)); //$NON-NLS-1$
+        // shaoyun
+        answer.addAttribute(new Attribute("parameterType", "com.ukirin.dba.filter.FilterExample")); //$NON-NLS-1$
 
         context.getCommentGenerator().addComment(answer);
 
@@ -73,6 +75,12 @@ public class SelectByExampleWithoutBLOBsElementGenerator extends
         ifElement = new XmlElement("if"); //$NON-NLS-1$
         ifElement.addAttribute(new Attribute("test", "orderByClause != null")); //$NON-NLS-1$ //$NON-NLS-2$
         ifElement.addElement(new TextElement("order by ${orderByClause}")); //$NON-NLS-1$
+        answer.addElement(ifElement);
+
+        // shaoyun
+        ifElement = new XmlElement("if");
+        ifElement.addAttribute(new Attribute("test", "offset != null and num != null"));
+        ifElement.addElement(new TextElement("limit #{offset}, #{num}"));
         answer.addElement(ifElement);
 
         if (context.getPlugins()

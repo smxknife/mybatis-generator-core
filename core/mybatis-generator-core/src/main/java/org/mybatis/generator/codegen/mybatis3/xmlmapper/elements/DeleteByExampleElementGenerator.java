@@ -39,7 +39,9 @@ public class DeleteByExampleElementGenerator extends
 
         answer.addAttribute(new Attribute(
                 "id", introspectedTable.getDeleteByExampleStatementId())); //$NON-NLS-1$
-        answer.addAttribute(new Attribute("parameterType", fqjt)); //$NON-NLS-1$
+        //answer.addAttribute(new Attribute("parameterType", fqjt)); //$NON-NLS-1$
+        // shaoyun
+        answer.addAttribute(new Attribute("parameterType", "com.ukirin.dba.filter.FilterExample")); //$NON-NLS-1$
 
         context.getCommentGenerator().addComment(answer);
 

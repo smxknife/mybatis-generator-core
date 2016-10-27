@@ -78,6 +78,12 @@ public class SelectByExampleWithBLOBsElementGenerator extends
         ifElement.addElement(new TextElement("order by ${orderByClause}")); //$NON-NLS-1$
         answer.addElement(ifElement);
 
+        // shaoyun
+        ifElement = new XmlElement("if");
+        ifElement.addAttribute(new Attribute("test", "offset != null and num != null"));
+        ifElement.addElement(new TextElement("limit #{offset}, #{num}"));
+        answer.addElement(ifElement);
+
         if (context.getPlugins()
                 .sqlMapSelectByExampleWithBLOBsElementGenerated(answer,
                         introspectedTable)) {

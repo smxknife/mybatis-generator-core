@@ -28,20 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExampleGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/model/ExampleGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="45" column="29" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntrospectedTableMyBatis3Impl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IntrospectedTableMyBatis3Impl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/IntrospectedTableMyBatis3Impl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
+            <state relative-caret-position="-460">
               <caret line="173" column="46" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -50,79 +40,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseRules.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/internal/rules/BaseRules.java">
+      <file leaf-file-name="SelectByExampleWithBLOBsElementGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/SelectByExampleWithBLOBsElementGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="53" column="78" selection-start-line="53" selection-start-column="78" selection-end-line="53" selection-end-column="78" />
+            <state relative-caret-position="1302">
+              <caret line="82" column="72" selection-start-line="82" selection-start-column="72" selection-end-line="82" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PropertyRegistry.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/config/PropertyRegistry.java">
+      <file leaf-file-name="ResultMapWithoutBLOBsElementGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/ResultMapWithoutBLOBsElementGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="47" column="60" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="60" />
+            <state relative-caret-position="-2598">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/AbstractGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-              <folding>
-                <element signature="e#1899#1900#0" expanded="true" />
-                <element signature="e#1955#1956#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractJavaClientGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/AbstractJavaClientGenerator.java">
+      <file leaf-file-name="SelectByExampleWithoutBLOBsElementGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/SelectByExampleWithoutBLOBsElementGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="28" column="40" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="40" />
+              <caret line="47" column="95" selection-start-line="47" selection-start-column="95" selection-end-line="47" selection-end-column="95" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractJavaGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/AbstractJavaGenerator.java">
+      <file leaf-file-name="DeleteByExampleElementGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/DeleteByExampleElementGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+            <state relative-caret-position="237">
+              <caret line="43" column="95" selection-start-line="43" selection-start-column="95" selection-end-line="43" selection-end-column="95" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JavaMapperGenerator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/JavaMapperGenerator.java">
+      <file leaf-file-name="CountByExampleElementGenerator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/CountByExampleElementGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
-              <folding>
-                <element signature="e#11513#11514#0" expanded="true" />
-                <element signature="e#11540#11541#0" expanded="true" />
-                <element signature="e#11614#11615#0" expanded="true" />
-                <element signature="e#11661#11662#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="48">
+              <caret line="42" column="95" selection-start-line="42" selection-start-column="95" selection-end-line="42" selection-end-column="95" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShellRunner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/ShellRunner.java">
+      <file leaf-file-name="SelectByPrimaryKeyElementGenerator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/SelectByPrimaryKeyElementGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+            <state relative-caret-position="-204">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -131,12 +103,29 @@
       <file leaf-file-name="MyBatis3FormattingUtilities.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/MyBatis3FormattingUtilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="-3551">
               <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-              <folding>
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1181#1182#0" expanded="true" />
-              </folding>
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListUtilities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/ListUtilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntrospectedTableMyBatis3SimpleImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/IntrospectedTableMyBatis3SimpleImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-653">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -158,6 +147,10 @@
         <option value="$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/IntrospectedTable.java" />
         <option value="$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/javamapper/JavaMapperGenerator.java" />
         <option value="$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/IntrospectedTableMyBatis3Impl.java" />
+        <option value="$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/SelectByExampleWithBLOBsElementGenerator.java" />
+        <option value="$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/SelectByExampleWithoutBLOBsElementGenerator.java" />
+        <option value="$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/DeleteByExampleElementGenerator.java" />
+        <option value="$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/CountByExampleElementGenerator.java" />
       </list>
     </option>
   </component>
@@ -217,9 +210,10 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="270" />
+    <option name="y" value="240" />
     <option name="width" value="1280" />
-    <option name="height" value="732" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -246,6 +240,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -476,7 +471,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
+              <option name="myItemId" value="xmlmapper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -518,48 +513,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javamapper" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
+              <option name="myItemId" value="xmlmapper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mybatis-generator-core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
+              <option name="myItemId" value="elements" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -810,30 +774,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="732" extended-state="6" />
+    <frame x="270" y="240" width="1280" height="730" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23378582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18659128" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19063005" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23981191" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28029078" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="558" y="57" width="224" height="663" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3529887" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="558" y="57" width="224" height="663" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4234375" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2390625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4234375" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -879,62 +843,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/InnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-405">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/InnerEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2253">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/JavaElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1749">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/JavaReservedWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1136">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/JavaVisibility.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4185">
-          <caret line="147" column="28" selection-start-line="147" selection-start-column="16" selection-end-line="147" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/Parameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/PrimitiveTypeWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1113">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/api/dom/java/TopLevelEnumeration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153">
@@ -1189,10 +1097,10 @@
         <state relative-caret-position="945">
           <caret line="92" column="44" selection-start-line="92" selection-start-column="44" selection-end-line="92" selection-end-column="44" />
           <folding>
-            <element signature="e#11513#11514#0" expanded="true" />
-            <element signature="e#11540#11541#0" expanded="true" />
-            <element signature="e#11614#11615#0" expanded="true" />
-            <element signature="e#11661#11662#0" expanded="true" />
+            <element signature="e#11513#11514#0" expanded="false" />
+            <element signature="e#11540#11541#0" expanded="false" />
+            <element signature="e#11614#11615#0" expanded="false" />
+            <element signature="e#11661#11662#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1202,17 +1110,6 @@
         <state relative-caret-position="168">
           <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/MyBatis3FormattingUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1181#1182#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1236,7 +1133,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="45" column="29" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1975#1976#0" expanded="false" />
+            <element signature="e#1998#1999#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1251,7 +1153,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="47" column="60" selection-start-line="47" selection-start-column="51" selection-end-line="47" selection-end-column="60" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1260,8 +1164,22 @@
         <state relative-caret-position="273">
           <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
           <folding>
-            <element signature="e#1899#1900#0" expanded="true" />
-            <element signature="e#1955#1956#0" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1164#1165#0" expanded="false" />
+            <element signature="e#1187#1188#0" expanded="false" />
+            <element signature="e#1222#1223#0" expanded="false" />
+            <element signature="e#1252#1253#0" expanded="false" />
+            <element signature="e#1299#1300#0" expanded="false" />
+            <element signature="e#1337#1338#0" expanded="false" />
+            <element signature="e#1392#1393#0" expanded="false" />
+            <element signature="e#1432#1433#0" expanded="false" />
+            <element signature="e#1608#1609#0" expanded="false" />
+            <element signature="e#1639#1640#0" expanded="false" />
+            <element signature="e#1693#1694#0" expanded="false" />
+            <element signature="e#1733#1734#0" expanded="false" />
+            <element signature="e#1786#1787#0" expanded="false" />
+            <element signature="e#1825#1826#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1270,17 +1188,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="53" column="78" selection-start-line="53" selection-start-column="78" selection-end-line="53" selection-end-column="78" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#15246#15247#0" expanded="false" />
+            <element signature="e#15286#15287#0" expanded="false" />
+            <element signature="e#16217#16218#0" expanded="false" />
+            <element signature="e#16252#16253#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/MyBatis3FormattingUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3551">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/ListUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/IntrospectedTableMyBatis3SimpleImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-653">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/IntrospectedTableMyBatis3Impl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
+        <state relative-caret-position="-460">
           <caret line="173" column="46" selection-start-line="173" selection-start-column="46" selection-end-line="173" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/ResultMapWithoutBLOBsElementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2598">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/SelectByExampleWithBLOBsElementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="82" column="72" selection-start-line="82" selection-start-column="72" selection-end-line="82" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/SelectByPrimaryKeyElementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/SelectByExampleWithoutBLOBsElementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="47" column="95" selection-start-line="47" selection-start-column="95" selection-end-line="47" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/DeleteByExampleElementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="43" column="95" selection-start-line="43" selection-start-column="95" selection-end-line="43" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-generator-core/src/main/java/org/mybatis/generator/codegen/mybatis3/xmlmapper/elements/CountByExampleElementGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="42" column="95" selection-start-line="42" selection-start-column="95" selection-end-line="42" selection-end-column="95" />
+          <folding />
         </state>
       </provider>
     </entry>

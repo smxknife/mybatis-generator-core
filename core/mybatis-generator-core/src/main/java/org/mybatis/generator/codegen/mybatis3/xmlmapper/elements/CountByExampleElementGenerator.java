@@ -38,7 +38,9 @@ public class CountByExampleElementGenerator extends AbstractXmlElementGenerator 
 
         answer.addAttribute(new Attribute(
                 "id", introspectedTable.getCountByExampleStatementId())); //$NON-NLS-1$
-        answer.addAttribute(new Attribute("parameterType", fqjt)); //$NON-NLS-1$
+        //answer.addAttribute(new Attribute("parameterType", fqjt)); //$NON-NLS-1$
+        // shaoyun
+        answer.addAttribute(new Attribute("parameterType", "com.ukirin.dba.filter.FilterExample")); //$NON-NLS-1$
         answer.addAttribute(new Attribute("resultType", "java.lang.Long")); //$NON-NLS-1$ //$NON-NLS-2$
 
         context.getCommentGenerator().addComment(answer);
